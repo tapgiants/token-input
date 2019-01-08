@@ -1,6 +1,6 @@
 {
   "name": "@tapgiants/token-input",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Token input field",
   "main": "build/index.js",
   "repository": "https://github.com/tapgiants/token-input.git",
@@ -16,7 +16,7 @@
     "@babel/polyfill": "^7.2.5",
     "@babel/preset-env": "^7.2.3",
     "@babel/preset-react": "^7.0.0",
-    "@tapgiants/autocomplete": "^1.0.3",
+    "@tapgiants/autocomplete": "^1.0.4",
     "babel-loader": "^8.0.4",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
@@ -28,6 +28,6 @@
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "recompose": "^0.30.0",
-    "@tapgiants/autocomplete": "^1.0.3"
+    "@tapgiants/autocomplete": "^1.0.4"
   }
 }

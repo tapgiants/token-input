@@ -656,10 +656,10 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@tapgiants/autocomplete@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@tapgiants/autocomplete/-/autocomplete-1.0.2.tgz#9390cda7f984b7afc8e72ead2c7f3ee4e905340a"
-  integrity sha512-kvxNjdq8QSgPxlwVqoig0Tj30/6f9aRks9lbI09guYzYZy/nXMzaRSGW1I4ZtN0KHPz3xVK9uyq4XSr9AcnnLg==
+"@tapgiants/autocomplete@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@tapgiants/autocomplete/-/autocomplete-1.0.4.tgz#625b6c0b7530502c9674b3ca51250964fc65d554"
+  integrity sha512-6/xJ27W473SQ5nif2Cw4D2Dbb+eQvGCYj4mY6Yg3ExaFbqoETjqYYQf+biplI8bwbOqEc/eaOmytfVvrOQw5ng==
   dependencies:
     react-autocomplete "^1.8.1"
 
