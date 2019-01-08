@@ -29,7 +29,8 @@ module.exports = {
     alias: {
       'react': path.resolve(__dirname, './node_modules/react'),
       'react-dom': path.resolve(__dirname, './node_modules/react-dom'),
-      'recompose': path.resolve(__dirname, './node_modules/recompose')
+      'recompose': path.resolve(__dirname, './node_modules/recompose'),
+      '@tapgiants/autocomplete': path.resolve(__dirname, './node_modules/@tapgiants/autocomplete')
     }
   },
   externals: {
@@ -49,6 +50,11 @@ module.exports = {
       commonjs: 'recompose',
       commonjs2: 'recompose',
       amd: 'recompose'
+    },
+    '@tapgiants/autocomplete': {
+      commonjs: '@tapgiants/autocomplete',
+      commonjs2: '@tapgiants/autocomplete',
+      amd: '@tapgiants/autocomplete'
     }
   }
 };
